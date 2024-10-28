@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  .app{
+    min-height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("https://t3.ftcdn.net/jpg/10/21/76/38/240_F_1021763858_5NEG857bNDYlM4vD3hAhNcbWxsQqkNyK.jpg");
+  }
